@@ -1,0 +1,19 @@
+## .NET 编译输出
+bin/
+obj/
+
+## Visual Studio 临时文件
+.vs/
+*.user
+*.suo
+
+## ReSharper
+_ReSharper*/
+*.resharper
+
+## Build 结果
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb

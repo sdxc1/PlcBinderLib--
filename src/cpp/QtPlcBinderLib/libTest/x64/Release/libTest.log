@@ -1,0 +1,4 @@
+﻿   Qt/MSBuild: 3.5.0.0
+   Qt: 5.14.2
+  libTest.cpp
+LINK : fatal error LNK1181: 无法打开输入文件“QtPlcBinderLib.lib”
