@@ -1,6 +1,5 @@
 # PlcBinderLib
 
-适用于cpp与c#双语言,qt与winform双框架
 更简便地控制PLC。一行代码绑定UI控件与PLC地址，点击按钮自动读写，不用手写通信逻辑。
 
 ## 能干什么
